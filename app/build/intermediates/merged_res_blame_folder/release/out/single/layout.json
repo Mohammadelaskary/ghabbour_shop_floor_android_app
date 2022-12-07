@@ -1,0 +1,826 @@
+[
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/manufacturing_productionscrap_lst.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/manufacturing_productionscrap_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_quality_defect_repair.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_quality_defect_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/defected_qty_data.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/defected_qty_data.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_mainmachinesignoff.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_mainmachinesignoff.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_stoppages_list.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_stoppages_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/check_list_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/check_list_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_welding_quality_repair.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_welding_quality_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/quality_ok_baskets_bottom_sheet.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/quality_ok_baskets_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_manufacturing_add_defect_details.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_manufacturing_add_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_random_quality_inception.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_random_quality_inception.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/manufacturing_sign_off_baskets_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/manufacturing_sign_off_baskets_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_qualitymainmenu.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_qualitymainmenu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_planning_menu.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_planning_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_manfacturingmenu.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_manfacturingmenu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/defects_per_qty_title.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/defects_per_qty_title.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_rejection_request.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_rejection_request.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_warehouse_main_menu.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_warehouse_main_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/paint_ppr_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/paint_ppr_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/rejection_request_closing_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/rejection_request_closing_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/job_order_data.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/job_order_data.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_display_defect_details.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_display_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/related_basket_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/related_basket_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_manufacturing_add_defects.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_manufacturing_add_defects.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_handling.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_handling.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/online_inspection_add_baskets_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/online_inspection_add_baskets_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_production_signoff.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_production_signoff.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_production_sequence.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_production_sequence.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_welding_wip__details.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_welding_wip__details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/baskets_dialog.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/baskets_dialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/child_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/child_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/add_online_inspection_baskets_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/add_online_inspection_baskets_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/add_baskets_bottom_sheet_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/add_baskets_bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_welding_quality_operation.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_welding_quality_operation.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_qcdesicionwe.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_qcdesicionwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/production_sequence_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/production_sequence_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/manufacturing_defects_per_qty.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/manufacturing_defects_per_qty.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_production_scraprequestwe.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_production_scraprequestwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/repairorder_lst.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/repairorder_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_welding_sequence.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_welding_sequence.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_quality.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_quality.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_baskettransferwe.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_baskettransferwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_production_repair.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_production_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/defect_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/defect_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/child_to_basket_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/child_to_basket_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/sign_off_qty.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/sign_off_qty.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_qualityscraprequest.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_qualityscraprequest.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_quality_ppr_list.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_quality_ppr_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_application_update.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_application_update.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/stoppage_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/stoppage_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_production_rejection_requests_list_quality.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_production_rejection_requests_list_quality.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/machine_item_basket_wip.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/machine_item_basket_wip.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/signoffcustomdialog.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/signoffcustomdialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_welding_display_defect_details.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_welding_display_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_signoffwe.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_signoffwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_quality_paint_main.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_quality_paint_main.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_quality_repair.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_quality_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_quality_repair.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_quality_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_machineloadingwe.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_machineloadingwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/paint_add_baskets_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/paint_add_baskets_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/welding_rejection_requests_list_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/welding_rejection_requests_list_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_scrap.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_scrap.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/machine_transaction_bottom_sheet.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/machine_transaction_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/welding_rejection_request_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/welding_rejection_request_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/welding_sign_off_baskets_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/welding_sign_off_baskets_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/welding_production_repair_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/welding_production_repair_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_quality_rejection_requests_list.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_quality_rejection_requests_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/basket_code_bottom_sheet.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/basket_code_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/paint_sign_off_baskets_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/paint_sign_off_baskets_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/productionrepairpaintdialog.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/productionrepairpaintdialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_engineering_scrapapproval.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_engineering_scrapapproval.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/welding_dialog_checklist.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/welding_dialog_checklist.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_welding_continue_loading.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_welding_continue_loading.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/productionrepairwedialog.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/productionrepairwedialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/activity_main.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/basket_qty_data.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/basket_qty_data.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/productionscrapinquality_lst.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/productionscrapinquality_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/display_child_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/display_child_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_online_inspection_ppr_list.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_online_inspection_ppr_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/basketcode_lst.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/basketcode_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_stoppages_main_menu.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_stoppages_main_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/machine_hold_bottom_sheet.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/machine_hold_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/worker_item_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/worker_item_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/machine_wip_list_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/machine_wip_list_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_manufacturing_welding_counting.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_manufacturing_welding_counting.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_sign_off_ppr_list.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_sign_off_ppr_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/ppr_item_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/ppr_item_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/productionscraplst_we.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/productionscraplst_we.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_qualitywelding.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_qualitywelding.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_qcrepairwe.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_qcrepairwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_quality_defect_repair.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_quality_defect_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/rejected_layout_data.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/rejected_layout_data.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/qualityscrap_lst.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/qualityscrap_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_production_menu.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_production_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_quality_operation_ppr_list.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_quality_operation_ppr_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_manfacturingquality.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_manfacturingquality.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_qualityscraplist.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_qualityscraplist.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/defects_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/defects_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_production_repair.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_production_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/weldingsequence_rv.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/weldingsequence_rv.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_add_defects_online_inspection.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_add_defects_online_inspection.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/ok_baskets_bottom_sheet.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/ok_baskets_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_change_base_url.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_change_base_url.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/station_wip_list_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/station_wip_list_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_production_rejection.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_production_rejection.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/sign_in_basket_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/sign_in_basket_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/basket_code_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/basket_code_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/qualityscrapwe_lst.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/qualityscrapwe_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_repairorders.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_repairorders.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_welding_menu.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_welding_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_qualityscrapapproval.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_qualityscrapapproval.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_productionrepairpaint.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_productionrepairpaint.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/welding_production_defect_repair_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/welding_production_defect_repair_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_machine_hold2.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_machine_hold2.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/ppr_list_dialog_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/ppr_list_dialog_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_main_welding_wip.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_main_welding_wip.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_quality_sign_off.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_quality_sign_off.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_machime_wip.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_machime_wip.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_productionrepairwe.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_productionrepairwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_rejection_requests_list.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_rejection_requests_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/ready_to_move_to_basket_dialog_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/ready_to_move_to_basket_dialog_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_welding_add_defects.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_welding_add_defects.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_productionsetqtn.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_productionsetqtn.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_random_quality_inspection.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_random_quality_inspection.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_production_defect_repair.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_production_defect_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_qualityscraprequestwe.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_qualityscraprequestwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_productionscrapapproval.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_productionscrapapproval.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/basket_info_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/basket_info_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_quality_desicion.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_quality_desicion.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/signoffwecustomdialog.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/signoffwecustomdialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_productionscraplist.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_productionscraplist.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_machine_loading.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_machine_loading.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_main_machine_wip.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_main_machine_wip.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_warehouses_main.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_warehouses_main.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_main_paint_wip.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_main_paint_wip.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_machine_stop.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_machine_stop.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_scraprequest.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_scraprequest.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_manufacturing_quality_operation.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_manufacturing_quality_operation.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/welding_quality_defect_repair_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/welding_quality_defect_repair_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_add_station_workers.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_add_station_workers.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/machinewip_lst.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/machinewip_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/repair_defect_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/repair_defect_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/child_to_basket_bottom_sheet_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/child_to_basket_bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_quality_operation.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_quality_operation.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_mainschedulellist.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_mainschedulellist.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/decline_rejection_basket_code_bottom_sheet.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/decline_rejection_basket_code_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/decline_rejection_request_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/decline_rejection_request_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/custom_alert_dialog.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/custom_alert_dialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/decline_rejection_request_decision_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/decline_rejection_request_decision_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_counting.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_counting.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_menu.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/loading_qty_data.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/loading_qty_data.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_mainmachineloading.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_mainmachineloading.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_add_defect_details.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_add_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_productionscrap.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_productionscrap.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_mainmenu.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_mainmenu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/welding_sign_off_items_custom_dialog.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/welding_sign_off_items_custom_dialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_sign_off.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_sign_off.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_reopen_defect.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_reopen_defect.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_add_workers.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_add_workers.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_signin.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_signin.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/move_to_basket_bottom_sheet.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/move_to_basket_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paintdstation.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paintdstation.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_qualityrepairpaint.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_qualityrepairpaint.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_warehouse.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_warehouse.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/defects_list_bottom_sheet.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/defects_list_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/change_password_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/change_password_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_reload_hold.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_reload_hold.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_display_defect_details.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_display_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/hold_sign_off_baskets_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/hold_sign_off_baskets_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/productionscrap_lst.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/productionscrap_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_main_scrapmanagment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_main_scrapmanagment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_welding_quality_signoff.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_welding_quality_signoff.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/qcnotes_lst.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/qcnotes_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_productionscraplistinquality.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_productionscraplistinquality.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paintquality.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paintquality.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/items_receiving_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/items_receiving_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_welding_random_quality_inspection.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_welding_random_quality_inspection.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/add_baskets_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/add_baskets_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/qty_child_qty_defect_item.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/qty_child_qty_defect_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_qualitydesicionpaint.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_qualitydesicionpaint.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_add_stoppage.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_add_stoppage.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/productionrepairdialog.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/productionrepairdialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_add_defects_online_inspection_painting.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_add_defects_online_inspection_painting.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_welding_add_defect_details.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_welding_add_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_productionscraprequestqc.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_productionscraprequestqc.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/manufacturing_decline_rejection_request_decision_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/manufacturing_decline_rejection_request_decision_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/mainschedulelst.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/mainschedulelst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/approval_rejection_requests_list_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/approval_rejection_requests_list_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/dialog_checklist.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/dialog_checklist.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/ppr_qty.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/ppr_qty.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/display_job_order_data_fragment.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/display_job_order_data_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_rejection_request.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_rejection_request.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_productionrepstatus.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_productionrepstatus.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/job_order_item_layout.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/job_order_item_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/custom_alert_dialog_with_choices.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/custom_alert_dialog_with_choices.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_production_defect_repair.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_production_defect_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_colorverification.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_colorverification.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_machineloadingpaint.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_machineloadingpaint.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_add_defects.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_add_defects.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_productionscraplistwe.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_productionscraplistwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_wip_details.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_wip_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_continue_loading.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_continue_loading.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_qualityscraplistwe.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_qualityscraplistwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_main_welding_machine_loading.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_main_welding_machine_loading.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/display_defects_bottom_sheet.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/display_defects_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-mergeReleaseResources-46:/layout/fragment_paint_rejection_request_details.xml",
+        "source": "com.example.gbsbadrsf.app-main-48:/layout/fragment_paint_rejection_request_details.xml"
+    }
+]

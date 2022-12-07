@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/machineloading_txt"
+        style="@style/styleoftextinappbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="15dp"
+        android:text="@string/add_workers"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:animateLayoutChanges="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/machineloading_txt">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/station_code"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="15dp"
+            app:errorEnabled="true"
+            app:errorTextColor="@android:color/holo_red_dark"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:startIconDrawable="@drawable/ic_barcode_icon">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/station_code"
+                android:imeOptions="actionGo"
+                android:lines="1"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textColor="@color/colorPrimary" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/data_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="@+id/station_code"
+            app:layout_constraintStart_toStartOf="@+id/station_code"
+            app:layout_constraintTop_toBottomOf="@+id/station_code">
+
+            <TextView
+                android:id="@+id/parentDesc"
+                style="@style/child_parent_desc_style"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:visibility="visible"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/job_order_data"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-16dp"
+                android:background="@drawable/job_order_data_background"
+                android:padding="15dp"
+                android:paddingStart="15dp"
+                android:paddingTop="13dp"
+                android:paddingBottom="18dp"
+                app:layout_constraintEnd_toEndOf="@+id/parentDesc"
+                app:layout_constraintStart_toStartOf="@+id/parentDesc"
+                app:layout_constraintTop_toBottomOf="@id/jobordernum_txt">
+
+
+                <TextView
+                    android:id="@+id/jobordernum"
+                    style="@style/details_text_style"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:gravity="center"
+                    android:visibility="visible"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/Joborderqtn"
+                    style="@style/details_text_style"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:gravity="center"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="@+id/jobordernum"
+                    app:layout_constraintTop_toBottomOf="@+id/jobordernum" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/jobordernum_txt"
+                style="@style/styleoftextbold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/job_order_txt_background"
+                android:text="@string/job_order"
+                android:textColor="@color/white"
+                app:layout_constraintEnd_toEndOf="@+id/parentDesc"
+                app:layout_constraintStart_toStartOf="@+id/parentDesc"
+                app:layout_constraintTop_toBottomOf="@id/parentDesc" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/worker_name_code"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="15dp"
+                app:endIconDrawable="@drawable/ic_barcode_icon"
+                app:endIconMode="custom"
+                app:errorEnabled="true"
+                app:errorTextColor="@android:color/holo_red_dark"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/job_order_data"
+                app:startIconDrawable="@drawable/ic_baseline_search_24">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/search_worker_name_code"
+                    android:imeOptions="actionGo"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:singleLine="true"
+                    android:textColor="@color/colorPrimary" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/selected_workers_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Selected workers"
+                app:layout_constraintEnd_toEndOf="@+id/worker_name_code"
+                app:layout_constraintStart_toStartOf="@+id/worker_name_code"
+                app:layout_constraintTop_toBottomOf="@+id/worker_name_code" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/selected_workers"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="3dp"
+                android:layout_marginEnd="3dp"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                app:layout_constraintEnd_toEndOf="@+id/worker_name_code"
+                app:layout_constraintStart_toStartOf="@+id/worker_name_code"
+                app:layout_constraintTop_toBottomOf="@+id/selected_workers_title" />
+
+            <View
+                android:id="@+id/line"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:background="#808080"
+                app:layout_constraintEnd_toEndOf="@id/selected_workers"
+                app:layout_constraintStart_toStartOf="@+id/selected_workers"
+                app:layout_constraintTop_toBottomOf="@id/selected_workers" />
+
+            <TextView
+                android:id="@+id/all_workers_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="All workers"
+                app:layout_constraintEnd_toEndOf="@+id/worker_name_code"
+                app:layout_constraintStart_toStartOf="@+id/worker_name_code"
+                app:layout_constraintTop_toBottomOf="@+id/line" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/all_workers"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="3dp"
+                android:layout_marginEnd="3dp"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                app:layout_constraintEnd_toEndOf="@+id/worker_name_code"
+                app:layout_constraintStart_toStartOf="@+id/worker_name_code"
+                app:layout_constraintTop_toBottomOf="@+id/all_workers_title" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/save"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/save"
+                app:cornerRadius="30dp"
+                app:layout_constraintEnd_toEndOf="@+id/all_workers"
+                app:layout_constraintStart_toStartOf="@+id/all_workers"
+                app:layout_constraintTop_toBottomOf="@+id/all_workers" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

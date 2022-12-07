@@ -1,0 +1,1970 @@
+[
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_done.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_done.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_drag_handle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_drag_handle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_productionscrapinquality_lst.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/productionscrapinquality_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_remove_basket.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_remove_basket.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_calendar.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_calendar.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_password.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_password.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi-v21_ic_add.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi-v21/ic_add.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_loading_yellow.json.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/loading_yellow.json"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_plus.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/plus.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_qualityscraplist.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_qualityscraplist.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_warehouse.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_warehouse.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_welding_quality_defect_repair_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/welding_quality_defect_repair_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_add_online_inspection_baskets_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/add_online_inspection_baskets_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_quality_paint_main.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_quality_paint_main.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_warehouse_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_warehouse_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_display_child_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/display_child_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/font_cambay.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/font/cambay.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_barcodel.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-xxhdpi/barcodel.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_machine.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_machine.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_baseline_close_24.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_baseline_search_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_qualityscrapapproval.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_qualityscrapapproval.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_main_welding_machine_loading.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_main_welding_machine_loading.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_mainschedulelst.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/mainschedulelst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_quality_operation_ppr_list.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_quality_operation_ppr_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_manufacturing_add_defects.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_manufacturing_add_defects.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_add.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_add.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_dropdown_arrow.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-xhdpi/ic_dropdown_arrow.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_remove_circle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_remove_circle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_keyboard.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_keyboard.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_quality.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_quality.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_keyboard.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_keyboard.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_welding_wip__details.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_welding_wip__details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_loading_colorful.json.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/loading_colorful.json"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_password.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_password.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_machineloadingpaint.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_machineloadingpaint.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_check_list_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/check_list_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_settings.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_calendar.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_calendar.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_handling.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_handling.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_remove_circle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_remove_circle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_dropdown_arrow.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-xxxhdpi/ic_dropdown_arrow.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_machine_item_basket_wip.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/machine_item_basket_wip.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_sign_off.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_sign_off.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_rejection_request.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_rejection_request.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_person.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_manufacturing_decline_rejection_request_decision_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/manufacturing_decline_rejection_request_decision_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_signoffwe.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_signoffwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_remove_basket.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_remove_basket.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_handling.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_handling.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_warehouse_icon.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_warehouse_icon.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_welding_add_defect_details.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_welding_add_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_items_receiving_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/items_receiving_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_done.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_done.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_colorverification.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_colorverification.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_scraprequest.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_scraprequest.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_decline_rejection_basket_code_bottom_sheet.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/decline_rejection_basket_code_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_remove_circle.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_remove_circle.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_warehouse_main_menu.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_warehouse_main_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/navigation_navigation.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/navigation/navigation.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_pending.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_pending.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_baseline_search_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_scrap.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_scrap.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_worker_unclicked_item_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-ldpi/worker_unclicked_item_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_baseline_search_24.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_weldingsequence_rv.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/weldingsequence_rv.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_ic_no_barcode.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/ic_no_barcode.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_signoffwecustomdialog.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/signoffwecustomdialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_settings.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_add_defects_online_inspection_painting.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_add_defects_online_inspection_painting.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_quality_defect_repair.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_quality_defect_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_baseline_access_time_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_baseline_access_time_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_machine_loading.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_machine_loading.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_drag_handle.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_drag_handle.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_change_base_url.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_change_base_url.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_edit.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_quality_ppr_list.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_quality_ppr_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_machine.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_machine.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_main_machine_wip.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_main_machine_wip.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_person.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_person.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic__delete.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic__delete.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_repairorder_lst.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/repairorder_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_station_wip_list_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/station_wip_list_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_add_baskets_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/add_baskets_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_productionrepairwe.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_productionrepairwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_random_quality_inspection.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_random_quality_inspection.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_pending.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_pending.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_qualityscraprequestwe.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_qualityscraprequestwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_pending.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_pending.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_quality.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_quality.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_engineering.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_engineering.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_remove_basket.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_remove_basket.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_loading_qty_data.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/loading_qty_data.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_add_stoppage.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_add_stoppage.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_ic_production.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/ic_production.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_engineering.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_engineering.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_job_order_data.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/job_order_data.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_qcnotes_lst.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/qcnotes_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_main_paint_wip.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_main_paint_wip.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_barcodel.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-mdpi/barcodel.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_alert_dialog_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/alert_dialog_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/font_cairo_regular.ttf.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/font/cairo_regular.ttf"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_qualityscraprequest.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_qualityscraprequest.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_basket_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_basket_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_ppr_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/ppr_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_settings.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_remove_basket.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_remove_basket.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_signoffcustomdialog.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/signoffcustomdialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_basket_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_basket_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_welding_quality_operation.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_welding_quality_operation.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_outline_info_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_outline_info_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_containerexamination.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/containerexamination.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_remove_basket.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_remove_basket.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_production_sequence.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_production_sequence.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_handling.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_handling.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_password.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_password.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_mainmenu.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_mainmenu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_barcodel.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-xhdpi/barcodel.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_custom_alert_dialog.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/custom_alert_dialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_calendar.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_calendar.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_welding_quality_repair.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_welding_quality_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_child_to_basket_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/child_to_basket_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_outline_info_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_outline_info_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_pending.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_pending.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_remove_circle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_remove_circle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_done_anim.json.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/done_anim.json"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic__save.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic__save.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_keyboard.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_keyboard.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_remove_circle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_remove_circle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_custom_alert_dialog_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/custom_alert_dialog_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_baseline_search_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic__delete.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic__delete.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_job_order_txt_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/job_order_txt_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_loading_lines.json.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/loading_lines.json"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_quality.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_quality.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_rejection_request_details.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_rejection_request_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_sign_in_basket_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/sign_in_basket_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_engineering.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_engineering.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_mainschedulellist.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_mainschedulellist.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_warning_alert.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_warning_alert.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_baseline_access_time_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_baseline_access_time_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_welding_production_repair_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/welding_production_repair_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_barcode_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_barcode_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_basket_code_bottom_sheet.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/basket_code_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_handling.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_handling.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_defects_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/defects_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_done.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_done.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_welding_rejection_requests_list_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/welding_rejection_requests_list_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_production_menu.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_production_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_drag_handle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_drag_handle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_drag_handle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_drag_handle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_stoppages_main_menu.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_stoppages_main_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_baseline_access_time_24.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_baseline_search_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_warning_alert.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_warning_alert.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_warning_alert.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_warning_alert.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_worker_item_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/worker_item_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_barcodel.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-ldpi/barcodel.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_online_inspection_add_baskets_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/online_inspection_add_baskets_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_random_quality_inception.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_random_quality_inception.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic__save.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic__save.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_qualityscrapwe_lst.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/qualityscrapwe_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_operation_text_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/operation_text_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_baseline_search_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_welding_sign_off_baskets_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/welding_sign_off_baskets_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_warehouse_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_warehouse_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_welding_production_defect_repair_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/welding_production_defect_repair_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_machine_stop.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_machine_stop.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_machine.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_machine.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/font_caesar_dressing.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/font/caesar_dressing.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_job_order_item_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/job_order_item_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_defected_qty_data.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/defected_qty_data.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_basket_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_basket_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_sarafelhawya.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/sarafelhawya.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_production_rejection_requests_list_quality.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_production_rejection_requests_list_quality.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_quality.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_quality.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_display_job_order_data_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/display_job_order_data_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_quality_repair.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_quality_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic__save.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic__save.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_engineering.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_engineering.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_person.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_person.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_qcrepairwe.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_qcrepairwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paintquality.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paintquality.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_engineering.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_engineering.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/anim_slide_out_left.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_edit.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_drag_handle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_drag_handle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_edt_bg.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/edt_bg.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_edit.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_reload_hold.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_reload_hold.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_basket_info_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/basket_info_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_display_defect_details.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_display_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_machine_wip_list_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/machine_wip_list_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_remaining_qty_title_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/remaining_qty_title_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_child_to_basket_bottom_sheet_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/child_to_basket_bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_productionscraplst_we.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/productionscraplst_we.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic__delete.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic__delete.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_barcode_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_barcode_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_productionscrap_lst.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/productionscrap_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_time_text_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/time_text_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_rejected_title_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/rejected_title_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_settings.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_manufacturing_defects_per_qty.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/manufacturing_defects_per_qty.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_quality_repair.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_quality_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_dropdown_arrow.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-hdpi/ic_dropdown_arrow.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_qty_child_qty_defect_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/qty_child_qty_defect_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_add_workers.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_add_workers.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_productionrepairwedialog.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/productionrepairwedialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_add_defects_online_inspection.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_add_defects_online_inspection.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_defect_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/defect_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_settings.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_sign_off_ppr_list.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_sign_off_ppr_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_basket_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_basket_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_loading_anim.json.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/loading_anim.json"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_welding_dialog_checklist.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/welding_dialog_checklist.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_quality_operation.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_quality_operation.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic__delete.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic__delete.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_barcode_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_barcode_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_paint_sign_off_baskets_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/paint_sign_off_baskets_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_ppr_item_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/ppr_item_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic__save.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic__save.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_machinewip_lst.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/machinewip_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_paint_ppr_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/paint_ppr_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_qualitywelding.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_qualitywelding.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_productionsetqtn.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_productionsetqtn.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_outline_info_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_outline_info_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_success_anim.json.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/success_anim.json"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_dropdown_arrow.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-ldpi/ic_dropdown_arrow.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_person.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_person.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_welding_display_defect_details.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_welding_display_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_baseline_access_time_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_baseline_access_time_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_menu.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_quality_sign_off.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_quality_sign_off.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_engineering_scrapapproval.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_engineering_scrapapproval.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_done.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_done.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_outline_info_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_outline_info_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/xml_provider_paths.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_production_repair.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_production_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_barcode_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_barcode_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paintdstation.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paintdstation.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic__save.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic__save.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_qualitydesicionpaint.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_qualitydesicionpaint.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_planning.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/planning.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_reopen_defect.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_reopen_defect.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_production_sequence_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/production_sequence_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_defects_per_qty_title.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/defects_per_qty_title.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_machime_wip.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_machime_wip.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_machine_transaction_bottom_sheet.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/machine_transaction_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_sign_off_qty.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/sign_off_qty.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_dropdown_arrow.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-mdpi/ic_dropdown_arrow.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_baseline_access_time_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_baseline_access_time_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v24_ic_handling.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v24/ic_handling.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/menu_logout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/menu/logout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_welding_menu.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_welding_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_rejected_layout_data.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/rejected_layout_data.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_warning_alert.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_warning_alert.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_edit.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_ready_to_move_to_basket_dialog_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/ready_to_move_to_basket_dialog_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_qualityrepairpaint.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_qualityrepairpaint.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_ic_no_keyboard.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/ic_no_keyboard.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_calendar.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_calendar.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_defects_bottom_sheet_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/defects_bottom_sheet_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_rejection_request_closing_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/rejection_request_closing_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_mainmachineloading.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_mainmachineloading.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic__save.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic__save.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_quality.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_quality.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic__save.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic__save.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/anim_slide_in_right.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_job_order_data_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/job_order_data_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_manufacturing_productionscrap_lst.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/manufacturing_productionscrap_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_dialog_checklist.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/dialog_checklist.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_pending.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_pending.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_mainentry.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/mainentry.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_edit.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_rejection_request.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_rejection_request.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_add_defects.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_add_defects.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v24_ic_basket_icon.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v24/ic_basket_icon.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_welding_sign_off_items_custom_dialog.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/welding_sign_off_items_custom_dialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_keyboard.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_keyboard.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_ppr_qty.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/ppr_qty.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_keyboard.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_keyboard.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_display_defect_details.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_display_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_qualitymainmenu.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_qualitymainmenu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_outline_info_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_outline_info_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_productionscraplistwe.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_productionscraplistwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_online_inspection_ppr_list.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_online_inspection_ppr_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_machine_hold2.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_machine_hold2.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic__delete.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic__delete.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_edit.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_edit.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_password.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_password.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_warehouse_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_warehouse_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_handling.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_handling.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_barcode_icon.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_barcode_icon.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_barcode_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_barcode_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_keyboard.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_keyboard.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_application_update.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_application_update.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_baseline_search_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_productionrepairpaintdialog.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/productionrepairpaintdialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_decline_rejection_request_decision_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/decline_rejection_request_decision_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/font_ubuntu_regular.ttf.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/font/ubuntu_regular.ttf"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_undo.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/undo.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_person.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_person.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_qcdesicionwe.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_qcdesicionwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_baseline_access_time_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_baseline_access_time_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_move_to_basket_bottom_sheet.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/move_to_basket_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_loading_animation.json.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/loading_animation.json"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_stoppages.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/stoppages.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_spinner_drop.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/spinner_drop.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_welding_quality_signoff.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_welding_quality_signoff.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_productionscraplist.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_productionscraplist.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_child_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/child_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_decline_rejection_request_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/decline_rejection_request_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_quality.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_quality.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_counting.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_counting.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v24_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v24/background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_welding_add_defects.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_welding_add_defects.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_productionscrap.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_productionscrap.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_mainmachinesignoff.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_mainmachinesignoff.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_manufacturing_quality_operation.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_manufacturing_quality_operation.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_production_scraprequestwe.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_production_scraprequestwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_quality.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_quality.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_production_defect_repair.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_production_defect_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_calendar.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_machine.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_machine.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_welding_random_quality_inspection.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_welding_random_quality_inspection.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_divider.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/divider.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_handling.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_handling.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_drag_handle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_drag_handle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_down_arrow.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_down_arrow.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_done.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_done.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_calendar.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_calendar.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_signin.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_signin.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_quality_ok_baskets_bottom_sheet.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/quality_ok_baskets_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_ready.json.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/ready.json"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_productionrepstatus.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_productionrepstatus.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_ok_baskets_bottom_sheet.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/ok_baskets_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_barcode_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_barcode_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_dropdown_arrow.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-xxhdpi/ic_dropdown_arrow.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_outline_info_24.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_outline_info_24.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_qualityscraplistwe.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_qualityscraplistwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_sign_off_baskets_title_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/sign_off_baskets_title_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_planning_menu.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_planning_menu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_warehouse_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_warehouse_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_continue_loading.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_continue_loading.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_main_scrapmanagment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_main_scrapmanagment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_barcodel.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-hdpi/barcodel.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_warehouses_main.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_warehouses_main.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_repairorders.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_repairorders.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_add_station_workers.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_add_station_workers.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_loading.json.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/loading.json"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_productionrepairdialog.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/productionrepairdialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_add_baskets_bottom_sheet_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/add_baskets_bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_machine.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_machine.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_password.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_password.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_productionscraplistinquality.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_productionscraplistinquality.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_person.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_person.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_approval_rejection_requests_list_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/approval_rejection_requests_list_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_wip_details.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_wip_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_drag_handle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_drag_handle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_barcodel.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable-xxxhdpi/barcodel.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_done.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_done.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_main_welding_wip.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_main_welding_wip.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_productionscraprequestqc.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_productionscraprequestqc.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_remove_basket.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_remove_basket.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_pending.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_pending.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_rejection_requests_list.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_rejection_requests_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_stoppage_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/stoppage_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_ppr_list_dialog_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/ppr_list_dialog_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_remove_circle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_remove_circle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_stoppages_list.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_stoppages_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi-v21_ic_down_arrow.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi-v21/ic_down_arrow.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_manufacturing_add_defect_details.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_manufacturing_add_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_baseline_close_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_baseline_close_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_quality_desicion.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_quality_desicion.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_basket_qty_data.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/basket_qty_data.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_repair_defect_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/repair_defect_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_change_password_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/change_password_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_warehouse_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_warehouse_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_password.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_password.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic__delete.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic__delete.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_calendar.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_calendar.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_related_basket_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/related_basket_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_machine.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_machine.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_worker_item_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/worker_item_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_defects_list_bottom_sheet.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/defects_list_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_manufacturing_welding_counting.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_manufacturing_welding_counting.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_keyboard.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_keyboard.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_animation.json.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/animation.json"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_productionrepairpaint.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_productionrepairpaint.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_handling.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_handling.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_production_defect_repair.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_production_defect_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic__delete.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic__delete.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_warning_tone.wav.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/warning_tone.wav"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_warning_alert.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_warning_alert.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_remove_basket.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_remove_basket.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_custom_alert_dialog_with_choices.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/custom_alert_dialog_with_choices.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_baskettransferwe.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_baskettransferwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_person.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_person.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_productionscrapapproval.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_productionscrapapproval.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_display_defects_bottom_sheet.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/display_defects_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_quality_rejection_requests_list.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_quality_rejection_requests_list.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_password.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_password.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_machine.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_machine.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_paint_add_baskets_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/paint_add_baskets_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_warning_alert.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_warning_alert.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxxhdpi_ic_warning_alert.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxxhdpi/ic_warning_alert.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_gabourlogo.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/gabourlogo.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_hold_sign_off_baskets_layout.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/hold_sign_off_baskets_layout.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_warehouse_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_warehouse_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_basket_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_basket_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_manufacturing_sign_off_baskets_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/manufacturing_sign_off_baskets_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_paint_add_defect_details.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_paint_add_defect_details.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_basketcode_lst.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/basketcode_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_basket_icon.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_basket_icon.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_baseline_access_time_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_baseline_access_time_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_welding_continue_loading.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_welding_continue_loading.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_baskets_dialog.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/baskets_dialog.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_quality.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_quality.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_menu_buttons_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/menu_buttons_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_production_repair.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_production_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_ic_engineering.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/ic_engineering.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/font_cairo_semi_bold.ttf.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/font/cairo_semi_bold.ttf"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_outline_info_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_outline_info_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/raw_warning.json.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/raw/warning.json"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xxhdpi_ic_remove_circle.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xxhdpi/ic_remove_circle.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_welding_rejection_request_fragment.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/welding_rejection_request_fragment.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-hdpi_ic_done.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-hdpi/ic_done.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_ic_logout.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/ic_logout.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_manfacturingmenu.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_manfacturingmenu.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-mdpi_ic_engineering.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-mdpi/ic_engineering.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_containercleaning.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/containercleaning.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_production_rejection.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_production_rejection.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-xhdpi_background.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_qualityscrap_lst.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/qualityscrap_lst.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_worker_clicked_item_background.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/worker_clicked_item_background.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_machineloadingwe.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_machineloadingwe.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_quality_defect_repair.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_quality_defect_repair.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_manfacturingquality.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_manfacturingquality.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_production_signoff.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_production_signoff.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable_enterscence.png.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/drawable/enterscence.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_arrow_back_24.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_machine_hold_bottom_sheet.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/machine_hold_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-ldpi_ic_arrow_back_24.png.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-ldpi/ic_arrow_back_24.png"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_fragment_welding_sequence.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/fragment_welding_sequence.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/layout_basket_code_item.xml.flat",
+        "source": "com.example.gbsbadrsf.app-main-49:/layout/basket_code_item.xml"
+    },
+    {
+        "merged": "com.example.gbsbadrsf.app-merged_res-47:/drawable-anydpi-v21_ic_pending.xml.flat",
+        "source": "com.example.gbsbadrsf.app-pngs-42:/drawable-anydpi-v21/ic_pending.xml"
+    }
+]

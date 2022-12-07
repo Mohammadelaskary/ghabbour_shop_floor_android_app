@@ -1,0 +1,50 @@
+com.example.gbsbadrsf.app-databinding-adapters-7.3.1-0 C:\Users\Dell\.gradle\caches\transforms-3\0c5c6eec89bce3e17dfe3c55ac93ef10\transformed\databinding-adapters-7.3.1\res
+com.example.gbsbadrsf.app-jetified-window-1.0.0-1 C:\Users\Dell\.gradle\caches\transforms-3\0cae631702e6a2996fe4e0273fb25788\transformed\jetified-window-1.0.0\res
+com.example.gbsbadrsf.app-appcompat-1.4.1-2 C:\Users\Dell\.gradle\caches\transforms-3\0e77567e0819e602f70a48d9aa3e51c4\transformed\appcompat-1.4.1\res
+com.example.gbsbadrsf.app-jetified-DataCollection-3 C:\Users\Dell\.gradle\caches\transforms-3\15f994ab09c7bcaa8c696bf4f359af4d\transformed\jetified-DataCollection\res
+com.example.gbsbadrsf.app-jetified-lottie-5.0.1-4 C:\Users\Dell\.gradle\caches\transforms-3\179751e712c8836ee330466d023bade6\transformed\jetified-lottie-5.0.1\res
+com.example.gbsbadrsf.app-jetified-lifecycle-livedata-core-ktx-2.4.1-5 C:\Users\Dell\.gradle\caches\transforms-3\17de77dfb35a8fda1bd4c92d1ddcc583\transformed\jetified-lifecycle-livedata-core-ktx-2.4.1\res
+com.example.gbsbadrsf.app-jetified-materialdatetimepicker-4.2.3-6 C:\Users\Dell\.gradle\caches\transforms-3\24b980fdfa9a95c9968c3fd16e2148d2\transformed\jetified-materialdatetimepicker-4.2.3\res
+com.example.gbsbadrsf.app-jetified-lifecycle-runtime-ktx-2.4.0-7 C:\Users\Dell\.gradle\caches\transforms-3\25368aba582b739f6306a73b543b23e7\transformed\jetified-lifecycle-runtime-ktx-2.4.0\res
+com.example.gbsbadrsf.app-jetified-viewpager2-1.0.0-8 C:\Users\Dell\.gradle\caches\transforms-3\25b0f5ae14e57456b5b08486dd14bdab\transformed\jetified-viewpager2-1.0.0\res
+com.example.gbsbadrsf.app-navigation-fragment-2.4.2-9 C:\Users\Dell\.gradle\caches\transforms-3\2f62b2f22aa2e602ffe886a35aec34ae\transformed\navigation-fragment-2.4.2\res
+com.example.gbsbadrsf.app-transition-1.4.1-10 C:\Users\Dell\.gradle\caches\transforms-3\3387dd5b57856bc1690b6523a0d48b9c\transformed\transition-1.4.1\res
+com.example.gbsbadrsf.app-jetified-emoji2-views-helper-1.0.0-11 C:\Users\Dell\.gradle\caches\transforms-3\3c25cf2cee93f975468601c68e9df817\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.example.gbsbadrsf.app-navigation-ui-2.4.2-12 C:\Users\Dell\.gradle\caches\transforms-3\51dbe972c60c7595610b81dc84b35d9d\transformed\navigation-ui-2.4.2\res
+com.example.gbsbadrsf.app-navigation-runtime-2.4.2-13 C:\Users\Dell\.gradle\caches\transforms-3\532c27381f5c3a0266f1e6708e6f84c6\transformed\navigation-runtime-2.4.2\res
+com.example.gbsbadrsf.app-drawerlayout-1.1.1-14 C:\Users\Dell\.gradle\caches\transforms-3\58b3b2d8ef015b4b20a229927502328c\transformed\drawerlayout-1.1.1\res
+com.example.gbsbadrsf.app-core-1.7.0-15 C:\Users\Dell\.gradle\caches\transforms-3\5e5a0011c2980c1b1553f0ad9b9e4c75\transformed\core-1.7.0\res
+com.example.gbsbadrsf.app-jetified-appcompat-resources-1.4.1-16 C:\Users\Dell\.gradle\caches\transforms-3\69c345595d39e52815b5f941021cc8ad\transformed\jetified-appcompat-resources-1.4.1\res
+com.example.gbsbadrsf.app-slidingpanelayout-1.2.0-17 C:\Users\Dell\.gradle\caches\transforms-3\7210fd4b1e2bcbe50d2c2aca35ef5ea6\transformed\slidingpanelayout-1.2.0\res
+com.example.gbsbadrsf.app-jetified-emoji2-1.0.0-18 C:\Users\Dell\.gradle\caches\transforms-3\75bfbceaa1f48f3bafad89548c89ca37\transformed\jetified-emoji2-1.0.0\res
+com.example.gbsbadrsf.app-constraintlayout-2.1.3-19 C:\Users\Dell\.gradle\caches\transforms-3\7983a8a59c9278f030dbd905927f6969\transformed\constraintlayout-2.1.3\res
+com.example.gbsbadrsf.app-material-1.6.0-20 C:\Users\Dell\.gradle\caches\transforms-3\81a42648d720ef3f002b98401018bf4f\transformed\material-1.6.0\res
+com.example.gbsbadrsf.app-jetified-lifecycle-service-2.4.0-21 C:\Users\Dell\.gradle\caches\transforms-3\8641aca4083447cc93920ab180fbea8b\transformed\jetified-lifecycle-service-2.4.0\res
+com.example.gbsbadrsf.app-lifecycle-runtime-2.4.0-22 C:\Users\Dell\.gradle\caches\transforms-3\94e2b145461f909b19762e16b92b2e52\transformed\lifecycle-runtime-2.4.0\res
+com.example.gbsbadrsf.app-jetified-annotation-experimental-1.1.0-23 C:\Users\Dell\.gradle\caches\transforms-3\a33a2591bc3fdb5c3b227027ade47dc1\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.gbsbadrsf.app-media-1.0.0-24 C:\Users\Dell\.gradle\caches\transforms-3\aad8a2afda7e1b81d0e6d7c364f083a0\transformed\media-1.0.0\res
+com.example.gbsbadrsf.app-coordinatorlayout-1.1.0-25 C:\Users\Dell\.gradle\caches\transforms-3\ade8d8b117694f2701883f1da7f33f99\transformed\coordinatorlayout-1.1.0\res
+com.example.gbsbadrsf.app-jetified-AppUpdater-2.7-26 C:\Users\Dell\.gradle\caches\transforms-3\ae8fc2941620f247f1475cbf13da28b9\transformed\jetified-AppUpdater-2.7\res
+com.example.gbsbadrsf.app-jetified-startup-runtime-1.1.1-27 C:\Users\Dell\.gradle\caches\transforms-3\b812067b9ebb462c3dd50e558ced1327\transformed\jetified-startup-runtime-1.1.1\res
+com.example.gbsbadrsf.app-lifecycle-livedata-core-2.4.1-28 C:\Users\Dell\.gradle\caches\transforms-3\baf15014d0e4ea9abd08df14b53e13ce\transformed\lifecycle-livedata-core-2.4.1\res
+com.example.gbsbadrsf.app-jetified-lifecycle-process-2.4.0-29 C:\Users\Dell\.gradle\caches\transforms-3\bd722dc8e3752ff41a783d9a98496aa5\transformed\jetified-lifecycle-process-2.4.0\res
+com.example.gbsbadrsf.app-lifecycle-viewmodel-2.4.1-30 C:\Users\Dell\.gradle\caches\transforms-3\bf12f77a4f1e6ad2245bda6e9ecef36e\transformed\lifecycle-viewmodel-2.4.1\res
+com.example.gbsbadrsf.app-jetified-lifecycle-livedata-ktx-2.4.1-31 C:\Users\Dell\.gradle\caches\transforms-3\cc9c5483832bcfab18b67dab0143f5ff\transformed\jetified-lifecycle-livedata-ktx-2.4.1\res
+com.example.gbsbadrsf.app-databinding-runtime-7.3.1-32 C:\Users\Dell\.gradle\caches\transforms-3\d9ab045c0067f95a3d485d3ef7101ec1\transformed\databinding-runtime-7.3.1\res
+com.example.gbsbadrsf.app-jetified-lifecycle-viewmodel-ktx-2.4.1-33 C:\Users\Dell\.gradle\caches\transforms-3\db850fb992f342f681983fb2b12ac71e\transformed\jetified-lifecycle-viewmodel-ktx-2.4.1\res
+com.example.gbsbadrsf.app-recyclerview-1.1.0-34 C:\Users\Dell\.gradle\caches\transforms-3\dd0bcec97340c59595d53407eb236cef\transformed\recyclerview-1.1.0\res
+com.example.gbsbadrsf.app-jetified-fragment-ktx-1.4.1-35 C:\Users\Dell\.gradle\caches\transforms-3\e9edc0faf57a4e003c2632ce459b82a9\transformed\jetified-fragment-ktx-1.4.1\res
+com.example.gbsbadrsf.app-jetified-savedstate-1.1.0-36 C:\Users\Dell\.gradle\caches\transforms-3\ec1d552053366fabd4b363ab533f2534\transformed\jetified-savedstate-1.1.0\res
+com.example.gbsbadrsf.app-cardview-1.0.0-37 C:\Users\Dell\.gradle\caches\transforms-3\eddbc786f6217cdcfe812e52025bb857\transformed\cardview-1.0.0\res
+com.example.gbsbadrsf.app-lifecycle-livedata-2.4.1-38 C:\Users\Dell\.gradle\caches\transforms-3\f5666ae5b19038bd4cc3495fd904f2f1\transformed\lifecycle-livedata-2.4.1\res
+com.example.gbsbadrsf.app-jetified-alerter-7.2.4-39 C:\Users\Dell\.gradle\caches\transforms-3\f78e972ae66e0c138c05843fd205ee3b\transformed\jetified-alerter-7.2.4\res
+com.example.gbsbadrsf.app-fragment-1.4.1-40 C:\Users\Dell\.gradle\caches\transforms-3\fa54648f1fcd5515461f30ca77a8def7\transformed\fragment-1.4.1\res
+com.example.gbsbadrsf.app-navigation-common-2.4.2-41 C:\Users\Dell\.gradle\caches\transforms-3\fe968f3b48fc3a81106728af21230224\transformed\navigation-common-2.4.2\res
+com.example.gbsbadrsf.app-pngs-42 F:\ghabbour project\GBSBadrSF_Work-master\app\build\generated\res\pngs\release
+com.example.gbsbadrsf.app-resValues-43 F:\ghabbour project\GBSBadrSF_Work-master\app\build\generated\res\resValues\release
+com.example.gbsbadrsf.app-rs-44 F:\ghabbour project\GBSBadrSF_Work-master\app\build\generated\res\rs\release
+com.example.gbsbadrsf.app-mergeReleaseResources-45 F:\ghabbour project\GBSBadrSF_Work-master\app\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.gbsbadrsf.app-mergeReleaseResources-46 F:\ghabbour project\GBSBadrSF_Work-master\app\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.gbsbadrsf.app-merged_res-47 F:\ghabbour project\GBSBadrSF_Work-master\app\build\intermediates\merged_res\release
+com.example.gbsbadrsf.app-main-48 F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\res
+com.example.gbsbadrsf.app-release-49 F:\ghabbour project\GBSBadrSF_Work-master\app\src\release\res

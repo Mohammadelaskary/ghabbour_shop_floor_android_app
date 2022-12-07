@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".warhouse.WarehousesMain">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/close_paint_rejection_request"
+        style="@style/MenuButton"
+        android:backgroundTint="@color/appbarcolor"
+        android:text="@string/close_painting_rejection_request"
+        app:cornerRadius="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/close_welding_rejection_request" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/close_manufacturing_rejection_request"
+        style="@style/MenuButton"
+        android:backgroundTint="@color/appbarcolor"
+        android:text="@string/close_manufacturing_rejection_request"
+        app:cornerRadius="25dp"
+        app:layout_constraintBottom_toTopOf="@+id/close_welding_rejection_request"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/warehousereciving_btn" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/close_welding_rejection_request"
+        style="@style/MenuButton"
+        android:backgroundTint="@color/appbarcolor"
+        android:text="@string/close_welding_rejection_request"
+        app:cornerRadius="25dp"
+        app:layout_constraintBottom_toTopOf="@+id/close_paint_rejection_request"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/close_manufacturing_rejection_request" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/warehousereciving_btn"
+
+        style="@style/MenuButton"
+        android:backgroundTint="@color/appbarcolor"
+        android:text="@string/warehouse_receiving"
+
+        app:cornerRadius="25dp"
+        app:layout_constraintBottom_toTopOf="@+id/close_manufacturing_rejection_request"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

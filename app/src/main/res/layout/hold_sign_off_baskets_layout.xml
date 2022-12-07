@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/qty_data"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-16dp"
+        android:background="@drawable/job_order_data_background"
+        android:padding="15dp"
+        android:paddingStart="15dp"
+        android:paddingTop="13dp"
+        android:paddingBottom="18dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/loading_qty_title">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/add_hold_baskets"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@android:color/transparent"
+            android:insetLeft="0dp"
+            android:insetTop="0dp"
+            android:insetRight="0dp"
+            android:insetBottom="0dp"
+            app:icon="@drawable/ic_add"
+            app:iconGravity="textStart"
+            app:iconPadding="0dp"
+            app:iconTint="#999"
+            app:layout_constraintBottom_toBottomOf="@+id/hold_text"
+            app:layout_constraintEnd_toStartOf="@+id/hold_text"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/hold_text"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/hold_text"
+            style="@style/style_of_text_bold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="@string/hold_baskets"
+            android:visibility="visible"
+            app:layout_constraintEnd_toStartOf="@+id/hold_qty"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/add_hold_baskets"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/hold_qty"
+            style="@style/details_text_style"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text=""
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="@+id/hold_text"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/hold_text"
+            app:layout_constraintTop_toTopOf="@+id/hold_text"
+            app:layout_constraintWidth_default="percent"
+            app:layout_constraintWidth_percent=".2" />
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/add_sign_off_baskets"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@android:color/transparent"
+            android:insetLeft="0dp"
+            android:insetTop="0dp"
+            android:insetRight="0dp"
+            android:insetBottom="0dp"
+            app:icon="@drawable/ic_add"
+            app:iconGravity="textStart"
+            app:iconPadding="0dp"
+            app:iconTint="#999"
+            app:layout_constraintBottom_toBottomOf="@+id/sign_off_text"
+            app:layout_constraintEnd_toStartOf="@+id/sign_off_text"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/sign_off_text" />
+
+        <TextView
+            android:id="@+id/sign_off_text"
+            style="@style/style_of_text_bold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="6dp"
+            android:gravity="center"
+            android:text="@string/sign_off_baskets"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/sign_off_qty"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/add_hold_baskets"
+            app:layout_constraintTop_toBottomOf="@id/hold_text" />
+
+        <TextView
+            android:id="@+id/sign_off_qty"
+            style="@style/details_text_style"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text=""
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="@+id/sign_off_text"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/sign_off_text"
+            app:layout_constraintTop_toTopOf="@+id/sign_off_text"
+            app:layout_constraintWidth_default="percent"
+            app:layout_constraintWidth_percent=".2" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView
+        android:id="@+id/loading_qty_title"
+        style="@style/styleoftextbold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/sign_off_baskets_title_background"
+        android:text="@string/baskets"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

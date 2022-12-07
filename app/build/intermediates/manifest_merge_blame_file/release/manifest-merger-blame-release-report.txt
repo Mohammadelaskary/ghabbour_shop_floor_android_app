@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.gbsbadrsf"
+4    android:versionCode="15"
+5    android:versionName="0.1.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:5:5-67
+11-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:6:5-79
+12-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:7:5-80
+13-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:8:5-81
+14-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:9:5-65
+15-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:9:22-62
+16    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+16-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:10:5-83
+16-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:10:22-80
+17    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+17-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:11:5-82
+17-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:11:22-79
+18    <uses-permission android:name="com.honeywell.decode.permission.DECODE" />
+18-->[DataCollection.aar] C:\Users\Dell\.gradle\caches\transforms-3\15f994ab09c7bcaa8c696bf4f359af4d\transformed\jetified-DataCollection\AndroidManifest.xml:11:5-78
+18-->[DataCollection.aar] C:\Users\Dell\.gradle\caches\transforms-3\15f994ab09c7bcaa8c696bf4f359af4d\transformed\jetified-DataCollection\AndroidManifest.xml:11:22-75
+19    <uses-permission android:name="android.permission.VIBRATE" />
+19-->[com.wdullaer:materialdatetimepicker:4.2.3] C:\Users\Dell\.gradle\caches\transforms-3\24b980fdfa9a95c9968c3fd16e2148d2\transformed\jetified-materialdatetimepicker-4.2.3\AndroidManifest.xml:26:5-66
+19-->[com.wdullaer:materialdatetimepicker:4.2.3] C:\Users\Dell\.gradle\caches\transforms-3\24b980fdfa9a95c9968c3fd16e2148d2\transformed\jetified-materialdatetimepicker-4.2.3\AndroidManifest.xml:26:22-63
+20
+21    <application
+21-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:13:5-50:19
+22        android:name="com.example.gbsbadrsf.Util.NewApplication"
+22-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:14:9-44
+23        android:allowBackup="true"
+23-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:15:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.7.0] C:\Users\Dell\.gradle\caches\transforms-3\5e5a0011c2980c1b1553f0ad9b9e4c75\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="false"
+25-->[DataCollection.aar] C:\Users\Dell\.gradle\caches\transforms-3\15f994ab09c7bcaa8c696bf4f359af4d\transformed\jetified-DataCollection\AndroidManifest.xml:15:9-35
+26        android:icon="@drawable/gabourlogo"
+26-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:16:9-44
+27        android:label="@string/app_name"
+27-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:17:9-41
+28        android:largeHeap="true"
+28-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:22:9-33
+29        android:requestLegacyExternalStorage="true"
+29-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:23:9-52
+30        android:roundIcon="@drawable/gabourlogo"
+30-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:18:9-49
+31        android:screenOrientation="portrait"
+31-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:21:9-45
+32        android:supportsRtl="true"
+32-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:19:9-35
+33        android:theme="@style/MainTheme"
+33-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:20:9-41
+34        android:usesCleartextTraffic="true" >
+34-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:24:9-44
+35        <activity
+35-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:25:9-33:20
+36            android:name="com.example.gbsbadrsf.MainActivity"
+36-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:25:19-47
+37            android:exported="true"
+37-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:27:13-36
+38            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" >
+38-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:26:13-72
+39            <intent-filter>
+39-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:28:13-32:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:29:17-69
+40-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:29:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:31:17-77
+42-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:31:27-74
+43            </intent-filter>
+44        </activity>
+45
+46        <meta-data
+46-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:38:9-40:57
+47            android:name="preloaded_fonts"
+47-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:39:13-43
+48            android:resource="@array/preloaded_fonts" />
+48-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:40:13-54
+49
+50        <provider
+51            android:name="androidx.core.content.FileProvider"
+51-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:42:13-62
+52            android:authorities="com.example.gbsbadrsf.provider"
+52-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:43:13-60
+53            android:exported="false"
+53-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:44:13-37
+54            android:grantUriPermissions="true" >
+54-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:45:13-47
+55            <meta-data
+55-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:46:13-48:58
+56                android:name="android.support.FILE_PROVIDER_PATHS"
+56-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:47:17-67
+57                android:resource="@xml/provider_paths" />
+57-->F:\ghabbour project\GBSBadrSF_Work-master\app\src\main\AndroidManifest.xml:48:17-55
+58        </provider>
+59
+60        <uses-library
+60-->[androidx.window:window:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\0cae631702e6a2996fe4e0273fb25788\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+61            android:name="androidx.window.extensions"
+61-->[androidx.window:window:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\0cae631702e6a2996fe4e0273fb25788\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+62            android:required="false" />
+62-->[androidx.window:window:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\0cae631702e6a2996fe4e0273fb25788\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+63        <uses-library
+63-->[androidx.window:window:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\0cae631702e6a2996fe4e0273fb25788\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+64            android:name="androidx.window.sidecar"
+64-->[androidx.window:window:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\0cae631702e6a2996fe4e0273fb25788\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+65            android:required="false" />
+65-->[androidx.window:window:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\0cae631702e6a2996fe4e0273fb25788\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+66    </application>
+67
+68</manifest>

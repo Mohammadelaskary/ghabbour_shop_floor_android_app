@@ -1,0 +1,63 @@
+<androidx.cardview.widget.CardView xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/clientdetin_card"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:cardCornerRadius="15dp"
+    android:layout_marginBottom="15dp"
+    android:backgroundTint="@color/white"
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/child_desc"
+            style="@style/child_parent_desc_style"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/job_order_name"
+            style="@style/job_order_style"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:layout_constraintEnd_toEndOf="@+id/child_desc"
+            app:layout_constraintStart_toStartOf="@+id/child_desc"
+            app:layout_constraintTop_toBottomOf="@+id/child_desc" />
+
+        <TextView
+            android:id="@+id/rejected_qtn"
+            style="@style/qty_style"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="10dp"
+            app:layout_constraintEnd_toEndOf="@+id/job_order_name"
+            app:layout_constraintStart_toStartOf="@+id/job_order_name"
+            app:layout_constraintTop_toBottomOf="@+id/job_order_name" />
+
+
+        <TextView
+            android:id="@+id/department"
+            style="@style/operation_style"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:layout_constraintEnd_toEndOf="@+id/rejected_qtn"
+            app:layout_constraintStart_toStartOf="@+id/rejected_qtn"
+            app:layout_constraintTop_toBottomOf="@+id/rejected_qtn" />
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>
